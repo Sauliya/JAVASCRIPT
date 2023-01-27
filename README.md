@@ -1,2 +1,2 @@
-# JAVASCRIPT
-JS Canvas 
+# JAVASCRIPT GAME DEV
+JS Game Dev
