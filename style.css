@@ -1,0 +1,13 @@
+body {
+    background: #333;
+    color: #eee;
+    font-family: monospace;
+    max-width: 600px;
+    margin-inline: auto;
+}
+
+canvas {
+
+    background: #eee;
+    width: 100%;
+}
