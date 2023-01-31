@@ -1,13 +1,14 @@
 body {
-    background: #333;
+    background-image: url("snakeart.jpg");
+    background-color: black;
     color: #eee;
     font-family: monospace;
-    max-width: 600px;
+    max-width: 900px;
     margin-inline: auto;
 }
 
 canvas {
 
-    background: #eee;
+    background: rgb(69, 43, 104);
     width: 100%;
 }
